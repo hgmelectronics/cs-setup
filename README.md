@@ -10,7 +10,7 @@ This repository manages the distribution of pre-built binaries and installation 
 
 - **macOS**: `arm64.dmg` installer and `.zip` archive
 - **macOS**: `x64.dmg` installer and `.zip` archive
-- **Windows**: `.exe` installer and `.zip` archive
+- **Windows**: `.exe` installer
 
 ## Latest Release
 
