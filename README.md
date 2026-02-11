@@ -14,7 +14,7 @@ This repository manages the distribution of pre-built binaries and installation 
 
 ## Latest Release
 
-Download the latest version from the [Releases](../../releases) section.
+Download the latest version from the [Latest Release](../../releases/latest) section.
 
 ### Auto-Updates
 
@@ -24,7 +24,7 @@ Download the latest version from the [Releases](../../releases) section.
 
 ### Installation
 
-1. Go to the [Releases](../../releases) page
+1. Go to the [Latest Release](../../releases/latest) page
 2. Download the appropriate installer for your platform:
    - **macOS**: `arm64.dmg` installer and `.zip` archive
    - **macOS**: `x64.dmg` installer and `.zip` archive
